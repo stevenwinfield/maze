@@ -17,7 +17,7 @@ from maze import Maze, Game, game_repeater
 from goodies import RandomGoody
 from baddies import RandomBaddy
 from gui import GameViewer
-
+# a test
 
 EXAMPLE_MAZE = Maze(10, 10, "0001010000"
                             "0111010101"
